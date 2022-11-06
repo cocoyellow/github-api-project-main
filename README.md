@@ -1,3 +1,5 @@
+hosting link is https://ornate-cactus-52bc61.netlify.app/
+the project is an answer to question 1 of exam project
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
